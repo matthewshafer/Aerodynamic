@@ -29,6 +29,7 @@ class Aerodynamic
 				throw new \Exception('Handler is not a Closure');
 			}
 
+			// 0 sets the defaultLogHandler
 			if($intFlags === 0)
 			{
 				self::$defaultLogHandler = $handler;
