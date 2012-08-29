@@ -4,6 +4,11 @@ Aerodynamic
 I needed a simple logging tool for a project I am working on so I decided to spend some time and put this together.
 I learned a bunch of new stuff with php by working on this which is why I decided to put it together.
 
+Build Status
+------------
+
+[![Build Status](https://secure.travis-ci.org/matthewshafer/Aerodynamic.png)](http://travis-ci.org/matthewshafer/Aerodynamic)
+
 What It Can Do
 --------------
 
